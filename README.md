@@ -1,38 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12002b,50:8e2de2,100:ff00cc&height=240&section=header&text=G'anisher%20Raximov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ofis%20dasturlari%20o'qituvchisi%20•%20Dasturchi%20•%20Iqtisodchi%20•%20Buxgalter&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0e4429,70:26a641,100:39d353&height=240&section=header&text=G'anisher%20Raximov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ofis%20dasturlari%20o'qituvchisi%20•%20Dasturchi%20•%20Iqtisodchi%20•%20Buxgalter&descAlignY=58&descSize=19"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF00CC&center=true&vCenter=true&width=900&lines=Assalomu+alaykum,+men+G'anisher+Raximov;Biznes+jarayonlarini+avtomatlashtiraman;Excel,+VBA+va+Google+Sheets+tizimlari;AppSheet+no-code+mobil+ilovalar;Telegram+botlar+%2B+Google+Sheets+integratsiyasi;Rasmiy+veb-sayt:+ganisher.uz" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=900&lines=Assalomu+alaykum,+men+G'anisher+Raximov;Biznes+jarayonlarini+avtomatlashtiraman;Excel,+VBA+va+Google+Sheets+tizimlari;AppSheet+no-code+mobil+ilovalar;Telegram+botlar+%2B+Google+Sheets+integratsiyasi;Rasmiy+veb-sayt:+ganisher.uz" />
 
 <br/>
 
-<a href="https://ganisher.uz"><img src="https://img.shields.io/badge/Website-ganisher.uz-ff00cc?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=12002b"/></a>
-<a href="https://t.me/raximov_ganisher"><img src="https://img.shields.io/badge/Telegram-@raximov__ganisher-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12002b"/></a>
-<a href="https://www.youtube.com/@raximovganisher"><img src="https://img.shields.io/badge/YouTube-@raximovganisher-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=12002b"/></a>
-<a href="https://www.instagram.com/tezkor_excel/"><img src="https://img.shields.io/badge/Instagram-@tezkor__excel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12002b"/></a>
+<a href="https://ganisher.uz"><img src="https://img.shields.io/badge/Website-ganisher.uz-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://t.me/raximov_ganisher"><img src="https://img.shields.io/badge/Telegram-@raximov__ganisher-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.youtube.com/@raximovganisher"><img src="https://img.shields.io/badge/YouTube-@raximovganisher-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.instagram.com/tezkor_excel/"><img src="https://img.shields.io/badge/Instagram-@tezkor__excel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 
 ---
 
-## ⚡ Men haqimda
+## <img src="assets/user.svg" width="36" align="center"/> Men haqimda
 
-```yaml
-Ism: G'anisher Raximov
-Kasb: Ofis dasturlari o'qituvchisi | Dasturchi | Iqtisodchi | Buxgalter
-Manzil: Urganch, Xorazm, O'zbekiston
-Missiya: Biznes jarayonlarini oddiy, tez va xatosiz ishlaydigan tizimlarga aylantiraman
-Yo'nalishlar:
-  - Excel / Google Sheets: dashboard, cash flow, buxgalteriya
-  - AppSheet: no-code mobil ilovalar
-  - Telegram botlar + Google Sheets
-  - Veb-saytlar va hujjatlar avtomatizatsiyasi
-  - Sun'iy intellekt va amaliy ta'lim
+```diff
++ Ism:      G'anisher Raximov
++ Kasb:     Ofis dasturlari o'qituvchisi | Dasturchi | Iqtisodchi | Buxgalter
++ Manzil:   Urganch, Xorazm, O'zbekiston
++ Missiya:  Biznes jarayonlarini oddiy, tez va xatosiz ishlaydigan tizimlarga aylantiraman
+
++ Yo'nalishlar:
++   ▸ Excel / Google Sheets — dashboard, cash flow, buxgalteriya
++   ▸ AppSheet — no-code mobil ilovalar
++   ▸ Telegram botlar + Google Sheets
++   ▸ Veb-saytlar va hujjatlar avtomatizatsiyasi
++   ▸ Sun'iy intellekt va amaliy ta'lim
 ```
 
 ---
 
-## 🛠 Texnologik malakam
+## <img src="assets/code.svg" width="36" align="center"/> Texnologik malakam
 
 <div align="center">
 
@@ -57,103 +58,103 @@ Yo'nalishlar:
 
 </div>
 
-### 📊 Ko'nikmalar darajasi
+### <img src="assets/chart.svg" width="30" align="center"/> Ko'nikmalar darajasi
 
-```text
-Microsoft Excel & VBA   ███████████████████░  95%
-AppSheet (No-code)      ██████████████████░░  90%
-Sun'iy Intellekt (AI)   █████████████████░░░  85%
-Raqamli Marketing       ████████████████░░░░  80%
-Python dasturlash       ███████████████░░░░░  75%
+```diff
++ Microsoft Excel & VBA   ███████████████████░  95%
++ AppSheet (No-code)      ██████████████████░░  90%
++ Sun'iy Intellekt (AI)   █████████████████░░░  85%
++ Raqamli Marketing       ████████████████░░░░  80%
++ Python dasturlash       ███████████████░░░░░  75%
 ```
 
 ---
 
-## 💼 Xizmatlarim
+## <img src="assets/briefcase.svg" width="36" align="center"/> Xizmatlarim
 
 | Yo'nalish | Qisqacha |
 |---|---|
-| 💰 **Moliya va Tahlil** | Cash flow va moliyaviy dashboard'lar, buxgalteriya hisobi |
-| 📱 **No-code Ilovalar** | AppSheet'da qarz daftar, ombor, mijozlar bazasi ilovalari |
-| 🤖 **Telegram Botlar** | Google Sheets bilan ishlaydigan aqlli botlar |
-| 📄 **Hujjatlar** | Shartnoma va buyruqlarni bir zumda avtomatik tayyorlash |
-| 🌐 **Veb-saytlar** | Zamonaviy landing sahifalar va portfoliolar |
-| 🧠 **AI va Ta'lim** | ChatGPT, Gemini, Claude bo'yicha amaliy darslar |
+| <img src="assets/wallet.svg" width="26" align="center"/> **Moliya va Tahlil** | Cash flow va moliyaviy dashboard'lar, buxgalteriya hisobi |
+| <img src="assets/phone.svg" width="26" align="center"/> **No-code Ilovalar** | AppSheet'da qarz daftar, ombor, mijozlar bazasi ilovalari |
+| <img src="assets/bot.svg" width="26" align="center"/> **Telegram Botlar** | Google Sheets bilan ishlaydigan aqlli botlar |
+| <img src="assets/doc.svg" width="26" align="center"/> **Hujjatlar** | Shartnoma va buyruqlarni bir zumda avtomatik tayyorlash |
+| <img src="assets/globe.svg" width="26" align="center"/> **Veb-saytlar** | Zamonaviy landing sahifalar va portfoliolar |
+| <img src="assets/spark.svg" width="26" align="center"/> **AI va Ta'lim** | ChatGPT, Gemini, Claude bo'yicha amaliy darslar |
 
 ---
 
-## 🚀 Loyihalarim
+## <img src="assets/rocket.svg" width="36" align="center"/> Loyihalarim
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 O'quv Markaz Tizimi
+### <img src="assets/school.svg" width="30" align="center"/> O'quv Markaz Tizimi
 O'quvchilar, guruhlar, davomat va to'lovlarni boshqarish tizimi.
 
-`Google Sheets` `Apps Script`
+<img src="https://img.shields.io/badge/Google_Sheets-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Apps_Script-2ea043?style=flat-square&labelColor=0d1117"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 💊 Apteka Tizimi
+### <img src="assets/pill.svg" width="30" align="center"/> Apteka Tizimi
 Dori-darmonlar qoldig'i, yaroqlilik muddati va savdo hisobi.
 
-`MS Excel` `VBA`
+<img src="https://img.shields.io/badge/MS_Excel-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/VBA-2ea043?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 Sklad Tizimi
+### <img src="assets/box.svg" width="30" align="center"/> Sklad Tizimi
 Tovarlar kirim-chiqimi, qoldiq va inventarizatsiya nazorati.
 
-`MS Excel` `Dashboard`
+<img src="https://img.shields.io/badge/MS_Excel-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Dashboard-2ea043?style=flat-square&labelColor=0d1117"/>
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ Habit Tracker
+### <img src="assets/habit.svg" width="30" align="center"/> Habit Tracker
 Kundalik odatlarni kuzatish va natijalarni vizual tahlil qilish.
 
-`Google Sheets` `Formulalar`
+<img src="https://img.shields.io/badge/Google_Sheets-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Formulalar-2ea043?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📒 Qarz Daftar Ilovasi
+### <img src="assets/notebook.svg" width="30" align="center"/> Qarz Daftar Ilovasi
 Qarz va to'lovlarni nazorat qilish mobil ilovasi.
 
-`AppSheet` `Google Drive`
+<img src="https://img.shields.io/badge/AppSheet-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Google_Drive-2ea043?style=flat-square&labelColor=0d1117"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Ombor va Savdo Avtomatizatsiyasi
+### <img src="assets/cart.svg" width="30" align="center"/> Ombor va Savdo Avtomatizatsiyasi
 Tovar qoldig'i, daromad va xarajatlarning to'liq hisobi.
 
-`MS Excel` `Dashboard` `VBA`
+<img src="https://img.shields.io/badge/MS_Excel-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Dashboard-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/VBA-2ea043?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💸 Moliya va Cash Flow Tizimi
+### <img src="assets/trend.svg" width="30" align="center"/> Moliya va Cash Flow Tizimi
 Korxona pul oqimlarini vizual monitoring qilish.
 
-`Google Sheets` `Formulalar`
+<img src="https://img.shields.io/badge/Google_Sheets-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Formulalar-2ea043?style=flat-square&labelColor=0d1117"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Mijozlar Bazasi Boti
+### <img src="assets/bot.svg" width="30" align="center"/> Mijozlar Bazasi Boti
 Yangi klientlarni qabul qilib, Sheets'ga yozuvchi bot.
 
-`Telegram API` `Google Apps Script`
+<img src="https://img.shields.io/badge/Telegram_API-2ea043?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Google_Apps_Script-2ea043?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
@@ -161,7 +162,7 @@ Yangi klientlarni qabul qilib, Sheets'ga yozuvchi bot.
 
 ---
 
-## 📺 Kanallarim
+## <img src="assets/play.svg" width="36" align="center"/> Kanallarim
 
 | Platforma | Kanal | Kontent |
 |---|---|---|
@@ -172,7 +173,7 @@ Yangi klientlarni qabul qilib, Sheets'ga yozuvchi bot.
 
 ---
 
-## 📬 Aloqa
+## <img src="assets/mail.svg" width="36" align="center"/> Aloqa
 
 <div align="center">
 
@@ -185,10 +186,10 @@ Yangi loyihalar va hamkorlik uchun doimo tayyorman 🤝
 
 <br/><br/>
 
-### 🌐 To'liq ma'lumot, barcha loyihalar va prezentatsiyalar uchun saytimga tashrif buyuring:
+### <img src="assets/globe.svg" width="30" align="center"/> To'liq ma'lumot, barcha loyihalar va prezentatsiyalar uchun saytimga tashrif buyuring:
 
-<a href="https://ganisher.uz"><img src="https://img.shields.io/badge/👉_GANISHER.UZ_—_SAYTGA_KIRISH-ff00cc?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=12002b"/></a>
+<a href="https://ganisher.uz"><img src="https://img.shields.io/badge/👉_GANISHER.UZ_—_SAYTGA_KIRISH-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:8e2de2,100:12002b&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,30:26a641,65:0e4429,100:0d1117&height=120&section=footer"/>
